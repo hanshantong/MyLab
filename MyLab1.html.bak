@@ -1,0 +1,79 @@
+﻿<html>
+  <head>
+    <title>西北工业大学-电子信息学院实验室</title>
+    <meta http-equiv="Content-Type" content="text/html";charset="UTF-8"/ >
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  
+  <body>
+  	
+     <div class="main">
+         <div class="header">
+             <div class="header_resize">
+                   <div class="logo">
+                   	   <img src="picture\logo.jpg" height="80" alt="西北工业大学-电子信息学院实验室" />
+                        
+                   </div>
+                   
+                   <div class="menu">
+                   	<ul >
+                   	  <li class="active"><a href="MyLab1.html">首页</a></li>
+                   	  <li><a href="news.html">新闻动态</a></li>
+                   	  <li><a href="nembers.html">成员力量</a></li>
+                   	  <li><a href="research.html">科研情况</a></li>
+                   	  <li><a href="regulation.html">规章制度</a></li>
+                   	</ul>
+         
+                   </div>
+                   <div class="clr"></div>
+             </div>
+         </div>
+         
+         <div class="content">
+         	 <div class="content_resize">
+            <h2>实验室简介</h2>
+            <p>阿股份将萨克法律就爱上咖啡了啊沙发空间按双方啊啊沙发靠理解爱上啊萨芬萨芬撒 
+            	算法爱上ASFASF啊沙发范围干撒 ASF爱上算法阿飞爱上高萨嘎无法啊噶罡风ASF啊fa发生发生萨芬爱上
+            	阿飞ASF撒萨芬撒个飞洒股份围绕爱上</p>
+            <p>教学工作</p>
+            <p>成员，配置，数量</p>
+            
+            <h2>实验课教程</h2>
+               <ul>
+                   <li>教程1</li>
+                   <li>教程2</li>
+                   <li>教程3</li>
+                   <li>教程4</li>
+               </ul>
+               
+             <h2>联系信息</h2>  
+               <ul>
+                  <li><strong>地址:</strong></li>
+                  <li><strong>电话:</strong></li>
+                  <li><strong>E-mail:</strong></li>
+               </ul>
+           </div>    
+         </div>
+         
+         <div class="footer">
+            <div class="footer_resize">
+               <p class="lf">&copy:西北工业大学-电子信息学院实验室</p>
+               <ul class="fmenu">
+                 <li class="active"><a href="MyLab1.html">首页</a></li>
+                   	  <li><a href="news.html">新闻动态</a></li>
+                   	  <li><a href="nembers.html">成员力量</a></li>
+                   	  <li><a href="research.html">科研情况</a></li>
+                   	  <li><a href="regulation.html">规章制度</a></li>
+               </ul>
+            </div>
+         </div>
+         
+         
+         
+         
+     </div>
+    
+  
+  </body>
+
+</html>
